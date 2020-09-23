@@ -6,6 +6,7 @@
 #### Cenários
 
 Cenário 001: Adiciona item no carrinho com sucesso.
+
 Cenário 002: Realiza uma compra com sucesso.
 
 
